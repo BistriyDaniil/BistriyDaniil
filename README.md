@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/bistriydaniil?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
-  <a href="mailto:bystryjdaniil176@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=icloud&logoColor=88C0D0"/></a>
 </div>
 
 ###
@@ -59,6 +58,9 @@
     <a href="https://instagram.com/panams211" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+  <a href="mailto:bystryjdaniil176@gmail.com">
+  <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 ###
