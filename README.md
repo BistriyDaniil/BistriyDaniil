@@ -58,14 +58,14 @@
     <a href="https://instagram.com/panams211" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:bystryjdaniil176@gmail.com">
-  <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="mailto:bystryjdaniil176@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥  Моя статистика</h3>
 
 ###
 
